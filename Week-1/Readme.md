@@ -7,6 +7,13 @@ This directory contains the work done in **Week 1** of the Tree Species Classifi
 - `dataset/` – Contains raw images categorized by tree species folders.
 - `.keep` – Placeholder to retain folder structure.
 
+## Dataset
+
+The dataset used for this project is included in `dataset.zip`.  
+It contains images of various tree species to be used for classification tasks.
+
+> Note: Unzip before using in notebook.
+
 ### 📝 Summary
 The dataset was successfully organized, and preliminary analysis was performed to understand the distribution and quality of images. Visual samples were plotted to verify correctness.
 
